@@ -1,0 +1,86 @@
+{
+	"name": "RANKING 50 MEJORES LISTAS W3U",
+	"author": "Actualizada 17/10/2021",
+	"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/3h4oBmQ.png",
+	"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/pnVyPz28D.w3u",
+	"telegram": "listaswiseplay",
+    "groups": [
+    	{
+		    "name":"Importar Listas",
+		    "image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+		    "stations":[
+				{
+					"name": "1.- 📺 TV DIRECTO en Español",
+					"info": "Sr.Jdoer - 73,925,618 Downloads",
+					"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+					"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/EJyG9lYpe.w3u",
+					"import": "true"
+				},
+		    ]
+		},
+		
+		{
+			"name":"Listas 1",
+		    "image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+			"stations":[
+				{
+					"name": "1.- 📺 TV DIRECTO en Español",
+					"info": "Sr.Jdoer - 73,925,618 Downloads",
+					"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+					"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/EJyG9lYpe.w3u",
+				},
+				{
+					"name": "2.- MEGA LISTA WISEPLAY",
+					"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
+					"image": "https://web.archive.org/web/20211021075333/https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+					"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/mjidB8Tlm.w3u"
+				},
+		    ]
+		},
+		
+		
+		{
+			"name":"Listas 2",
+		    "image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+			"stations":[
+				{
+					"name": "1.- 📺 TV DIRECTO en Español",
+					"info": "Sr.Jdoer - 73,925,618 Downloads",
+					"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+					"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/EJyG9lYpe.w3u",
+				},
+				{
+					"name": "2.- MEGA LISTA WISEPLAY",
+					"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
+					"image": "https://web.archive.org/web/20211021075333/https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+					"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/mjidB8Tlm.w3u"
+				},
+		    ]
+		},
+		
+		{
+			"name":"Listas 1",
+		    "image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+			"stations":[
+				{
+					"name":"Listas 1",
+					"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+					"stations":[
+							{
+								"name": "1.- 📺 TV DIRECTO en Español",
+								"info": "Sr.Jdoer - 73,925,618 Downloads",
+								"image": "https://web.archive.org/web/20211021075333/https://i.imgur.com/YAaMwxN.png",
+								"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/EJyG9lYpe.w3u",
+							},
+							{
+								"name": "2.- MEGA LISTA WISEPLAY",
+								"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
+								"image": "https://web.archive.org/web/20211021075333/https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+								"url": "https://web.archive.org/web/20211021075333/https://w3ubin.com/mjidB8Tlm.w3u"
+							},
+					]
+				},
+			]
+		}
+	]
+}
