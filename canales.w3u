@@ -49,6 +49,12 @@
 					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
 					"url": "https://AlbertoSyc.github.io/lobato/lista_mov_plus.m3u",
 				},
+				{
+					"name": "t5",
+					"info": " ",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
+					"url": "http://tribaliptv.com:8080/Gustavo/123456/4799",
+				},
 			    ]
 		},
 		
