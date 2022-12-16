@@ -3,11 +3,13 @@
 	"author": "Actualizada 16/12/2022",
 	"image": "https://es.wikipedia.org/wiki/Carta_de_ajuste#/media/Archivo:Philips_PM5544.svg",
 	"url": "https://AlbertoSyc.github.io/lobato/canales.w3u",
-    "groups": [
-    	{
-		    "name":"Importar Listas",
-		    "image": "https://i.imgur.com/YAaMwxN.png",
-		    "stations":[
+    
+    	"groups": [
+    		
+		{
+		"name":"Importar Listas",
+		"image": "https://i.imgur.com/YAaMwxN.png",
+		"stations":[
 				{
 					"name": "Pendiente",
 					"info": "info",
@@ -15,13 +17,13 @@
 					"url": "https://w3ubin.com/EJyG9lYpe.w3u",
 					"import": "true"
 				},
-		    ]
+		    		]
 		},
 		
 		{
-		    "name":"Deportes",
-		    "image": "https://cdn.icon-icons.com/icons2/3310/PNG/512/sport_ball_balls_football_basketball_basket_tennis_icon_209257.png",
-		     "stations":[
+		"name":"Deportes",
+		"image": "https://cdn.icon-icons.com/icons2/3310/PNG/512/sport_ball_balls_football_basketball_basket_tennis_icon_209257.png",
+		 "stations":[
 				{
 					"name": "chuky",
 					"info": "Sr.Jdoer - 73,925,618 Downloads",
@@ -35,6 +37,19 @@
 					"url": "https://w3ubin.com/mjidB8Tlm.w3u"
 				},
 		    ]
+		},
+		
+		{
+		"name":"Movistar Dic 2022",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
+		 "stations":[
+				{
+					"name": "Lista Movistar Plus",
+					"info": " ",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
+					"url": "https://AlbertoSyc.github.io/lobato/lista_mov_plus.m3u",
+				},
+			    ]
 		},
 		
 		
