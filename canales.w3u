@@ -744,30 +744,7 @@
 		    ]
 		},
 		
-		{
-			"name":"Listas 1",
-		    "image": "https://i.imgur.com/YAaMwxN.png",
-			"stations":[
-				{
-					"name":"Listas 1",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"stations":[
-							{
-								"name": "1.- 📺 TV DIRECTO en Español",
-								"info": "Sr.Jdoer - 73,925,618 Downloads",
-								"image": "https://i.imgur.com/YAaMwxN.png",
-								"url": "https://w3ubin.com/EJyG9lYpe.w3u",
-							},
-							{
-								"name": "2.- MEGA LISTA WISEPLAY",
-								"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
-								"image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-								"url": "https://w3ubin.com/mjidB8Tlm.w3u"
-							},
-					]
-				},
-			]
-		}
+		
 		{
 		"name":"Importar Listas",
 		"image": "https://i.imgur.com/YAaMwxN.png",
