@@ -1,6 +1,6 @@
 {
 	"name": "Lista 2022",
-	"author": "Actualizada 16/12/2022",
+	"author": "Actualizada 20/12/2022",
 	"image": "https://es.wikipedia.org/wiki/Carta_de_ajuste#/media/Archivo:Philips_PM5544.svg",
 	"url": "https://AlbertoSyc.github.io/lobato/canales.w3u",
     
@@ -31,7 +31,7 @@
 					"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
 				},
 				{
-					"name": "chuky",
+					"name": "chuky TEST",
 					"info": "https://pastebin.com/u/chukyvaliente",
 					"image": "https://i.imgur.com/YAaMwxN.png",
 					"url": "https://pastebin.com/CuJ8H9wi",
@@ -60,21 +60,16 @@
 		
 		
 		{
-			"name":"Listas 2",
+		    "name":"Cine",
 		    "image": "https://i.imgur.com/YAaMwxN.png",
 			"stations":[
 				{
-					"name": "1.- 📺 TV DIRECTO en Español",
-					"info": "Sr.Jdoer - 73,925,618 Downloads",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://w3ubin.com/EJyG9lYpe.w3u",
+					"name": "Películas",
+					"info": "",
+					"image": "",
+					"url": "https://github.com/softwaretro/listas3u/blob/master/peliculas.w3u",
 				},
-				{
-					"name": "2.- MEGA LISTA WISEPLAY",
-					"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
-					"image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-					"url": "https://w3ubin.com/mjidB8Tlm.w3u"
-				},
+				
 		    ]
 		},
 		
