@@ -24,17 +24,17 @@
 		"name":"Deportes",
 		"image": "https://cdn.icon-icons.com/icons2/3310/PNG/512/sport_ball_balls_football_basketball_basket_tennis_icon_209257.png",
 		 "stations":[
+				
 				{
-					"name": "chuky",
-					"info": "Sr.Jdoer - 73,925,618 Downloads",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://pastebin.com/CuJ8H9wi",
+					"name": "chukydeport-mix-05",
+    					"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+					"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
 				},
 				{
-					"name": "2.- MEGA LISTA WISEPLAY",
-					"info": "Staff Listaswiseplay - 05/10/21 - 938,416 Downloads",
-					"image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-					"url": "https://w3ubin.com/mjidB8Tlm.w3u"
+					"name": "chuky",
+					"info": "https://pastebin.com/u/chukyvaliente",
+					"image": "https://i.imgur.com/YAaMwxN.png",
+					"url": "https://pastebin.com/CuJ8H9wi",
 				},
 		    ]
 		},
