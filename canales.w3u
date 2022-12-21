@@ -714,7 +714,7 @@
 		{
 		"name":"Movistar Dic Acestream",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
-		 "stations":[
+		 "groups":[
 				{
 				"name":"Movistar generales",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
