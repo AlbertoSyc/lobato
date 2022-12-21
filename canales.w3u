@@ -692,24 +692,7 @@
 		
 		
 		
-		{
-		"name":"Deportes",
-		"image": "https://cdn.icon-icons.com/icons2/3310/PNG/512/sport_ball_balls_football_basketball_basket_tennis_icon_209257.png",
-		 "stations":[
-				
-				{
-					"name": "chukydeport-mix-05",
-    					"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-					"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
-				},
-				{
-					"name": "chuky TEST",
-					"info": "https://pastebin.com/u/chukyvaliente",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://pastebin.com/CuJ8H9wi",
-				},
-		    ]
-		},
+		
 		
 		{
 		"name":"Movistar Dic Acestream",
@@ -896,15 +879,6 @@
 				 ]
 				 },
 				
-				{
-				"name":"Movistar La liga",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png",
-				 "stations":[
-				 
-				 ]
-				 },
-				
-				
 			    ]
 		},
 		
@@ -912,7 +886,7 @@
 		{
 		    "name":"Cine",
 		    "image": "https://i.imgur.com/YAaMwxN.png",
-			"stations":[
+			"Group":[
 				{
 					"name": "Películas",
 					"info": " ",
@@ -926,7 +900,7 @@
 		{
 		"name":"Importar Listas",
 		"image": "https://i.imgur.com/YAaMwxN.png",
-		"stations":[
+		"group":[
 				{
 					"name": "Pendiente",
 					"info": "info",
