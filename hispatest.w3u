@@ -1,10 +1,30 @@
 {
   "name" : "hispatest",
-  "author" : "Hispared - 22/09/2022",
+  "author" : "test 16:20",
   "url" : "https://AlbertoSyc.github.io/lobato/hispatest.w3u",
   "image" : "https://i.imgur.com/K47yYJQ.gif",
   "imageScale" : "fitCenter",
   "groups": [
+  
+  {
+		"name" : "     🇪🇸🇪🇸 Hispaseries 3.0 🇪🇸",
+		  "author" : "Hispared - 22/09/2022",
+		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u",
+		  "image" : "https://i.imgur.com/K47yYJQ.gif",
+		},
+		{
+		"name" : "     🇪🇸🇪🇸 Hispafilms 3.0 🇪🇸",
+		  "author" : "Hispared - 22/09/2022",
+		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispapelis.w3u",
+		  "image" : "https://i.imgur.com/bR6vta5.gif",
+		},
+		
+		{
+		"name": "chukydeport-mix-05",
+		"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+		"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
+		},
+		
 	{
 		
             "name": "Deportes por AcEStREAM iDs",
