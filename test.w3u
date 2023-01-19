@@ -1,9 +1,10 @@
 {
-	"name": "Lista test",
-	"author": "Actualizada 20/12/2022",
-	"image": "https://es.wikipedia.org/wiki/Carta_de_ajuste#/media/Archivo:Philips_PM5544.svg",
-	"url": "https://AlbertoSyc.github.io/lobato/test.w3u",
-    
+  "name" : "hispatest",
+  "author" : "test 16:20",
+  "url" : "https://AlbertoSyc.github.io/lobato/test.w3u",
+  "image" : "https://es.wikipedia.org/wiki/Carta_de_ajuste#/media/Archivo:Philips_PM5544.svg",
+  "imageScale" : "fitCenter",
+
     	"groups": [
     		
 		{
