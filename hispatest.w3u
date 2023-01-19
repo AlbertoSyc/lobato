@@ -5,26 +5,6 @@
   "image" : "https://i.imgur.com/K47yYJQ.gif",
   "imageScale" : "fitCenter",
   "groups": [
-    		
-		{
-		"name" : "     🇪🇸🇪🇸 Hispaseries 3.0 🇪🇸",
-		  "author" : "Hispared - 22/09/2022",
-		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u",
-		  "image" : "https://i.imgur.com/K47yYJQ.gif",
-		},
-		{
-		"name" : "     🇪🇸🇪🇸 Hispafilms 3.0 🇪🇸",
-		  "author" : "Hispared - 22/09/2022",
-		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispapelis.w3u",
-		  "image" : "https://i.imgur.com/bR6vta5.gif",
-		},
-		
-		{
-		"name": "chukydeport-mix-05",
-		"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-		"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
-		},
-		
 	{
 		
             "name": "Deportes por AcEStREAM iDs",
@@ -688,42 +668,7 @@
                 }
             ]
         },
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		{
-		    "name":"Cine",
-		    "image": "https://i.imgur.com/YAaMwxN.png",
-			"Group":[
-				{
-					"name": "Películas",
-					"info": " ",
-					"url": "https://github.com/softwaretro/listas3u/blob/master/peliculas.w3u",
-				},
-				
-		    ]
-		},
-		
-		
-		{
-		"name":"Importar Listas",
-		"image": "https://i.imgur.com/YAaMwxN.png",
-		"group":[
-				{
-					"name": "Pendiente",
-					"info": "info",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://w3ubin.com/EJyG9lYpe.w3u",
-					"import": "true"
-				},
-		    		]
-		},
+	
 	
 		
 	]
