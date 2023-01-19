@@ -1,0 +1,29 @@
+{
+  "name" : "     🇪🇸🇪🇸 Hispaseries 3.0 🇪🇸",
+  "author" : "Hispared - 22/09/2022",
+  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u",
+  "image" : "https://i.imgur.com/K47yYJQ.gif",
+  "imageScale" : "fitCenter",
+  "groups": [
+    {
+      "name": "MiniSeries",
+      "image1": "https://sep.yimg.com/ca/I/yhst-172526971-2_2540_1173405851",
+      "image": "https://as2.ftcdn.net/jpg/01/72/36/71/500_F_172367168_EBfTeRi6JI3vDUbwGmR1CKg51AsqZWPe.jpg",
+      "desktop": true,
+      "groups": [
+        {
+          "name": "El Quijote 1991 Aventuras Drama | Siglo XVII 310' 🇪🇸",
+          "image": "https://i.imgur.com/mEC5e7k.png",
+          "info": "5 episodios. Alonso Quijano, un hidalgo manchego de unos 50 años y de mediana posición económica, queda hasta tal punto trastornado por la lectura de los libros de caballería que decide salir a buscar aventuras acompañado de su fiel escudero Sancho Panza. La peculiar locura de Don Quijote, la fascinación que despierta en Sancho y la bondad de ambos personajes contrastan con la crueldad y el escarnio de que son objeto por parte de aquellos a quienes tratan de ayudar. En 1990 Televisión Española emprendió su producción más ambiciosa hasta el momento, la Adaptación de 'El Quijote', de Miguel de Cervantes, la mejor novela de la historia, para estrenarla en 1992 durante las celebraciones del V centenario. Su másximo responsable fue el productor Emiliano Piedra, con la aprobación de la entonces directora de RTVE, Pilar Miró. años antes Emiliano había producido la versión inacabada de Orson Welles y así se sacaba la espinita que tenía clavada por el fracaso del proyecto. Desgraciadamente no pudo disfrutar del éxito de la serie ya que falleció antes de su estreno, el 28 de agosto de 1991. Como director se escogió al joven con más talento de su generación, Manuel Guti??rrez Aragón, responsable de películas como 'Maravillas' o 'Demonios en el jardín' Y como guionista al mismísimo Camilo Jos?? Cela, aunque el propio Aragón retocó los textos. La intención era realizar una primera parte de 8 Capítulos y una segunda de 10, que debía dirigir otro de los grandes, Mario Camus, pero la crisis de los 90 impidió tan ambicioso proyecto. Desde el primer momento Alfredo Landa fue elegido para interpretar a Sancho Panza. Sin embargo para el papel de Don Quijote se hicieron numerosas pruebas hasta dar con el ideal, Fernando Rey, que en un principio se resistió porque tenía 72 años y no se veía cabalgando metido dentro de una armadura y además tenía una exitosa carrera internacional. Pero afortunadamente terminó aceptando, aunque tuvo que adelgazar 12 kilos. Incluso su caballo, con el que no se llevaba demasiado bien, también se sometió a un exigente r??gimen para parecerse a Rocinante. Fernando tenía dos armaduras, la de metal y otra de goma mucho más cómoda. Al final se rompió 2 costillas en una caída, pero mereció la pena porque logró una de las cimas de su carrera interpretativa",
+          "stations": [
+            {
+              "name": "El Quijote entero 310'",
+              "image": "https://img2.rtve.es/p/31215?imgProgApi=imgPoster&w=480",
+              "url": "https://player.odycdn.com/api/v4/streams/free/EL-QUIJOTE.-Gui%C3%B3n-de-Camilo-Jos%C3%A9-Cela/7490ae7cf9728eeed0c347c1b1c8203b4a82f8be/7432f8"
+            }
+			]
+			}
+			]
+			}
+			]
+			}
