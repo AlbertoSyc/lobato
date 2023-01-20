@@ -1,6 +1,6 @@
 {
- "name" : "test3 1358",
-  "author" : "test 16:20",
+ "name" : "test3 1420",
+  "author" : "test 14:20",
   "url" : "https://AlbertoSyc.github.io/lobato/test3.w3u",
   "imageScale" : "fitCenter",
     
@@ -611,81 +611,7 @@
                                           }
             		]
 	            },
-                {
-                 "name": "Canales Spain",
-                 "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
-                 "imageScale": "",
-                 "info":"",
-                 "stations":
-                    [
-                        {
-                            "name": "GOL PLAY",
-                            "info":"acestream:eca2   [1080p]",
-                            "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
-                            "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
-                        },
-                        {
-                            "name": "M. Golf",
-                            "info":"acestream:8122   [1080p]",
-                            "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
-                            "url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122"
-                        },
-                        {
-                            "name": "TDP [TeleDeporte]",
-                            "info":"acestream:bf01   [1080p]",
-                            "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
-                            "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
-                        },
-                        {
-                            "name": "LA 1 [1080][Multiaudio]",
-                            "info":"",
-                            "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                            "url": "acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842"
-                        },
-                        {
-                            "name": "CUATRO TV",
-                            "info":"Sin conexión",
-                            "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
-                            "url": "acestream://"
-                        },
-                        {
-                            "name": "TeleCinco",
-                            "info":"Sin conexión",
-                            "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
-                            "url": "acestream://"
-                        },
-                        {
-                            "name": "BE MAD",
-                            "info":"acestream:770c   [1080p]",
-                            "image": "https://i.ibb.co/2qxWsCP/BeMad.jpg",
-                            "url": "acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c"
-                        },
-                        {
-                            "name": "#0",
-                            "info":"acestream:c7c2   [1080p]",
-                            "image": "https://i.ibb.co/1mdGqWc/Cero.jpg",
-                            "url": "acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2"
-                        },
-                        {
-                            "name": "BARCA TV HD",
-                            "info":"acestream:3ba7   [1080p]",
-                            "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
-                            "url": "acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7"
-                        },
-                        {
-                            "name": "REAL MADRID TV [1080]",
-                            "info":"",
-                            "image": "https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png",
-                            "url": "acestream://0827cf7d290967985892965c6e61244a479d6dcd"
-                        },
-                        {
-                        	"name": "REAL MADRID TV [1080]",
-                        	"info":"",
-                        	"image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
-                        	"url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"
-                        }
-                    ]
-                }
+                
             ]
         },
 		
@@ -700,11 +626,23 @@
 		{
 		    "name":"Cine",
 		    "image": "https://i.imgur.com/YAaMwxN.png",
-			"Group":[
-				{
-					"name": "Películas",
-					"info": " ",
-					"url": "https://github.com/softwaretro/listas3u/blob/master/peliculas.w3u",
+			"groups":
+            [
+	            
+                {
+                 "name": "Cine 2",
+                 "image": "https://i.postimg.cc/C154dRxw/Logo-La-Liga.png",
+                 "imageScale": "",
+                 "info":"",
+                 "stations":
+                    [
+                        {
+                            "name": "DAZN LaLiga [MultiAudio]",
+                            "info":"Sin conexión",
+                            "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                            "url": "acestream:// "
+                        },
+					]
 				},
 				
 		    ]
@@ -714,15 +652,26 @@
 		{
 		"name":"Importar Listas",
 		"image": "https://i.imgur.com/YAaMwxN.png",
-		"group":[
-				{
-					"name": "Pendiente",
-					"info": "info",
-					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://w3ubin.com/EJyG9lYpe.w3u",
-					"import": "true"
+		"groups":
+            [
+	            
+                {
+                 "name": "Cine 2",
+                 "image": "https://i.postimg.cc/C154dRxw/Logo-La-Liga.png",
+                 "imageScale": "",
+                 "info":"",
+                 "stations":
+                    [
+                        {
+                            "name": "DAZN LaLiga [MultiAudio]",
+                            "info":"Sin conexión",
+                            "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                            "url": "acestream:// "
+                        },
+					]
 				},
-		    		]
+				
+		    ]
 		},
 	
 		
