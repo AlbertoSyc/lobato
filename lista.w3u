@@ -19,11 +19,11 @@
 		  "image" : "https://i.imgur.com/bR6vta5.gif"
 		},
     
-    {
-    "name": "Listas M3U",
-    "info": "",
-            "groups":
-            [
+        {
+		"name": "Listas M3U",
+		"info": "",
+		"groups":
+			[
     
               {
               "name" : "Julia 01",
@@ -51,24 +51,24 @@
                 "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
               }
            ]
-	},
+		},
 	
-	{
+		{
             "name": "Deportes por AcEStREAM iDs",
             "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
-	    "info": "http://w3ubin.com/pILOr-m6X.w3u",
+			"info": "http://w3ubin.com/pILOr-m6X.w3u",
             "groups":
-            [
+				[
 	            
-		{
-		    "name": "chukydeport-mix-05",
-		    "author": "chuky (Actualizada al 29-01-2023)",
-		    "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
-		    "info": "Enlaces de internet",
-		    "telegram": "chukyeldiabolico",
-		    "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
-		},
-	       {
+			{
+				"name": "chukydeport-mix-05",
+				"author": "chuky (Actualizada al 29-01-2023)",
+				"image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
+				"info": "Enlaces de internet",
+				"telegram": "chukyeldiabolico",
+				"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+			},
+			{
                  "name": "LIGA SANTANDER",
                  "image": "https://i.postimg.cc/C154dRxw/Logo-La-Liga.png",
                  "imageScale": "",
@@ -88,31 +88,31 @@
                             "image": "https://i.postimg.cc/8zgLTZHZ/La-Liga-TV-por-Movistar-Plus-2022-logo.png",
                             "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
                         },
-			{
-			   "name": "LaLiga Smartbank",
-			   "info":"",
-			   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-			   "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
-			  },
-					    {
-			   "name": "LaLiga Smartbank 720",
-			   "info":"",
-			   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-			   "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
-			  },
-					    {
-			   "name": "LaLiga Smartbank 2",
-			   "info":"",
-			   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-			   "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
-			  },
-					    {
-			   "name": "LaLiga Smartbank 2 [720]",
-			   "info":"",
-			   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
-			   "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
-			  },
-			  {
+						{
+						   "name": "LaLiga Smartbank",
+						   "info":"",
+						   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
+						   "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
+						  },
+						{
+						   "name": "LaLiga Smartbank 720",
+						   "info":"",
+						   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
+						   "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+						  },
+						{
+						   "name": "LaLiga Smartbank 2",
+						   "info":"",
+						   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
+						   "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
+						  },
+						{
+						   "name": "LaLiga Smartbank 2 [720]",
+						   "info":"",
+						   "image": "https://i.postimg.cc/gcTTHLyv/La-Liga-Smart-Bank-tv.png",
+						   "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+						},
+						  {
                             "name": "M. Liga de Campeones [1080][MultiAudio]",
                             "info":"",
                             "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -168,9 +168,9 @@
                         },
 			
                       ]
-                },
+            },
 		
-	{
+			{
                  "name": "M+ DEPORTES",
                  "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
                  "imageScale": "",
@@ -220,8 +220,8 @@
                             "url": "acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486"
                         }
                     ]
-	},
-	{
+			},
+			{
                  "name": "DAZN",
                  "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
                  "imageScale": "",
@@ -265,8 +265,8 @@
                             "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
                         }
                     ]
-                },
-                {
+            },
+            {
                  "name": "DAZN F1",
                  "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
                  "imageScale": "",
@@ -292,12 +292,9 @@
                             "url": "acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a"
                         }
                     ]
-                }
-		
-		
-		
-	]
-	}
+            }
+			]
+		}
 	   
 	   
 	   
