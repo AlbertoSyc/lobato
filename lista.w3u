@@ -31,7 +31,22 @@
                 "url" : "http://extralife.club:2086/get.php?username=Julia01&password=Julia01&type=m3u_plus"
               },
               {
-              "name" : "goodtv.nicevcd.xyz",
+              "name" : "1 goodtv.nicevcd.xyz",
+                "author" : goodtv.nicevcd.xyz",
+                "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
+              },
+	      {
+              "name" : "2 goodtv.nicevcd.xyz",
+                "author" : goodtv.nicevcd.xyz",
+                "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=XFR5KKKRAQ&password=9727614388&type=m3u_plus"
+              },
+	      {
+              "name" : "3 goodtv.nicevcd.xyz",
+                "author" : goodtv.nicevcd.xyz",
+                "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=fe1014480&password=8710219499&type=m3u_plus"
+              },
+	      {
+              "name" : "4 goodtv.nicevcd.xyz",
                 "author" : goodtv.nicevcd.xyz",
                 "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
               }
