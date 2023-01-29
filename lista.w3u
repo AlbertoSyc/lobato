@@ -1,0 +1,42 @@
+{
+  "name" : "Lista 2023",
+  "author" : "iott 23",
+  "url" : "https://AlbertoSyc.github.io/lobato/lista.w3u",
+  "imageScale" : "fitCenter",
+
+    	"groups": [
+    		
+		{
+		"name" : "     🇪🇸🇪🇸 Hispaseries 3.0 🇪🇸",
+		  "author" : "Hispared - 22/09/2022",
+		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u",
+		  "image" : "https://i.imgur.com/K47yYJQ.gif"
+		},
+		{
+		"name" : "     🇪🇸🇪🇸 Hispafilms 3.0 🇪🇸",
+		  "author" : "Hispared - 22/09/2022",
+		  "url" : "https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispapelis.w3u",
+		  "image" : "https://i.imgur.com/bR6vta5.gif"
+		},
+    
+    {
+    "name": "Listas M3U",
+    "info": "",
+            "groups":
+            [
+    
+              {
+              "name" : "Julia 01",
+                "author" : Julia01",
+                "url" : "http://extralife.club:2086/get.php?username=Julia01&password=Julia01&type=m3u_plus"
+              },
+              {
+              "name" : "goodtv.nicevcd.xyz",
+                "author" : goodtv.nicevcd.xyz",
+                "url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
+              }
+           ]
+	   }    
+    
+	]
+}
