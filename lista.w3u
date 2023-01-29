@@ -45,7 +45,15 @@
             "groups":
             [
 	            
-                {
+		{
+		    "name": "chukydeport-mix-05",
+		    "author": "chuky (Actualizada al 29-01-2023)",
+		    "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
+		    "info": "Enlaces de internet",
+		    "telegram": "chukyeldiabolico",
+		    "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+		},
+	       {
                  "name": "LIGA SANTANDER",
                  "image": "https://i.postimg.cc/C154dRxw/Logo-La-Liga.png",
                  "imageScale": "",
