@@ -73,6 +73,11 @@
 			      "name" : "4 goodtv.nicevcd.xyz",
 				"author" : "goodtv.nicevcd.xyz",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
+			      },
+			      {
+			      "name" : "5 933cn.xyz:8080",
+				"author" : "goodtv.nicevcd.xyz",
+				"url" : "http://933cn.xyz:8080/get.php?username=tvrabbit&password=mb7OFJ1LN9&type=m3u&output=mpegts"
 			      }
 			]
 		},
@@ -125,7 +130,26 @@
 			      }
 			]
 		},
-		
+				
+		{
+		 "name": "ZeroNet",
+		 "image": "https://pt.wikipedia.org/wiki/ZeroNet#/media/Ficheiro:Zeronet_logo.png",
+		 "imageScale": "",
+		 "info":"",
+		 "stations":
+			[
+				{
+					"name": "Lista20acestream",
+					"info":"",
+					"url": "http://127.0.0.1:43110/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista20acestream.m3u"
+				},
+				{
+					"name": "Lista1",
+					"info":"",
+					"url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/lista1.m3u"
+				}
+			]
+		},		
 		{
 		 "name": "DAZN ace stream",
 		 "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
