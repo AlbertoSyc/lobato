@@ -1,6 +1,6 @@
 {
   "name" : "Lista 2023",
-  "author" : "iott 06022023",
+  "author" : "iott 07022023",
   "url" : "https://AlbertoSyc.github.io/lobato/lista.w3u",
   "image" : "https://upload.wikimedia.org/wikipedia/commons/a/ac/Carta_de_Ajuste_TVE_2_1993-2001.png",
   "imageScale" : "fitCenter",
@@ -55,16 +55,21 @@
 				"url" : "http://extralife.club:2086/get.php?username=Julia01&password=Julia01&type=m3u_plus"
 			      }, 
 
- {
-			      "name" : "1drv01",
+ 				{
+			      "name" : "1drv",
 				"author" : "6 02 23",
 				"url" : "https://1drv.ms/u/s!AnxOXC-TLHVBgYt7OPjtq4ryHBF9RA?e=U61nIc"
 			      }, 
 
-{
-			      "name" : "Fuegote 01",
+				{
+			      "name" : "Fuegote",
 				"author" : "1 02 23",
 				"url" : "http://bedhdkwbdhdkdk.team-tv.link/get.php?username=KaYnaKPanelx01xxx&password=ECFdJnh6Lq&type=m3u_plus&output=ts"
+			      },
+			      {
+			      "name" : "2022spn",
+				"author" : "75 conexiones",
+				"url" : "http://2022spn.net:8080/get.php?username=Sociolina&password=Hddnau&type=m3u"
 			      },
 			      {
 			      "name" : "1 goodtv.nicevcd.xyz",
