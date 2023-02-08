@@ -50,52 +50,113 @@
 			[
     
 			      {
-			      "name" : "Julia 01",
+			      "name" : "1 Julia",
 				"author" : "Julia01",
 				"url" : "http://extralife.club:2086/get.php?username=Julia01&password=Julia01&type=m3u_plus"
 			      }, 
 
  				{
-			      "name" : "1drv",
+			      "name" : "2 1drv",
 				"author" : "6 02 23",
 				"url" : "https://1drv.ms/u/s!AnxOXC-TLHVBgYt7OPjtq4ryHBF9RA?e=U61nIc"
 			      }, 
 
 				{
-			      "name" : "Fuegote",
+			      "name" : "3 Fuegote",
 				"author" : "1 02 23",
 				"url" : "http://bedhdkwbdhdkdk.team-tv.link/get.php?username=KaYnaKPanelx01xxx&password=ECFdJnh6Lq&type=m3u_plus&output=ts"
 			      },
 			      {
-			      "name" : "2022spn",
-				"author" : "75 conexiones",
+			      "name" : "4 2022spn",
+				"info" : "75 conexiones",
 				"url" : "http://2022spn.net:8080/get.php?username=Sociolina&password=Hddnau&type=m3u"
 			      },
 			      {
-			      "name" : "1 goodtv.nicevcd.xyz",
+			      "name" : "5 Zonatv2",
+				"info" : "",
+				"url" : "http://zonatv2chic2023.cable-modem.org:25461/get.php?username=7UNkswugcV&password=pHLjQKGEUX&type=m3u_plus&output=mpegts"
+			      },
+			      {
+			      "name" : "6 goodtv.nicevcd.xyz",
 				"author" : "goodtv.nicevcd.xyz",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
 			      },
 			      {
-			      "name" : "2 goodtv.nicevcd.xyz",
+			      "name" : "7 goodtv.nicevcd.xyz",
 				"author" : "goodtv.nicevcd.xyz",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=XFR5KKKRAQ&password=9727614388&type=m3u_plus"
 			      },
 			      {
-			      "name" : "3 goodtv.nicevcd.xyz",
+			      "name" : "8 goodtv.nicevcd.xyz",
 				"author" : "goodtv.nicevcd.xyz",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=fe1014480&password=8710219499&type=m3u_plus"
 			      },
 			      {
-			      "name" : "4 goodtv.nicevcd.xyz",
+			      "name" : "9 goodtv.nicevcd.xyz",
 				"author" : "goodtv.nicevcd.xyz",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
 			      },
 			      {
-			      "name" : "5 933cn.xyz:8080",
+			      "name" : "10 933cn.xyz:8080",
 				"author" : "933cn.xyz:8080",
 				"url" : "http://933cn.xyz:8080/get.php?username=tvrabbit&password=mb7OFJ1LN9&type=m3u&output=mpegts"
-			      }
+			      },
+			      
+			      {
+				"name": "Listas M3U_Plus BlackGost",
+				"info": "",
+				"groups":
+					[
+    
+					      {
+					      "name" : "01",
+						"url" : "http://blackghost.win:8080/get.php?username=Trabajolargo&password=sPbCeknEqxKf&type=m3u_plus"
+					      }, 
+
+						{
+					      "name" : "2",
+						"url" : "http://blackghost.win:8080/get.php?username=Antoniocan35&password=AmPgBJkHyLWw&type=m3u_plus"
+					      }, 
+
+						{
+					      "name" : "3",
+						"url" : "http://blackghost.win:8080/get.php?username=Antonioman&password=HNmAaRJqli&type=m3u_plus"
+					      },
+					      {
+					      "name" : "4",
+						"url" : "http://blackghost.win:8080/get.php?username=SXthFDYLsAgW&password=6SVT9bVqygLV&type=m3u_plus"
+					      },
+					      {
+					      "name" : "5",
+						"url" : "http://blackghost.win:8080/get.php?username=Cambios26agos&password=414dias26ag&type=m3u_plus"
+					      },
+					      {
+					      "name" : "6",
+						"url" : "http://blackghost.win:8080/get.php?username=@nenetro&password=h8uHV8RLZsvM&type=m3u_plus"
+					      },
+					      {
+					      "name" : "7",
+						"url" : "http://blackghost.win:8080/get.php?username=@Carol_mu&password=PTbsj2RkWGmw&type=m3u_plus"
+					      },
+					      {
+					      "name" : "8",
+						"url" : "http://blackghost.win:8080/get.php?username=@Montealto676_1&password=DDCpQsYQKmmN&type=m3u_plus"
+					      },
+					      {
+					      "name" : "9",
+						"url" : "http://blackghost.win:8080/get.php?username=marcosg2&password=1iKXNA0eM1&type=m3u_plus"
+					      },
+					      {
+					      "name" : "10",
+						"url" : "http://blackghost.win:8080/get.php?username=obOsczxKDw&password=M969E7vdi2&type=m3u_plus"
+					      },
+					      {
+					      "name" : "11",
+						"url" : "http://blackghost.win:8080/get.php?username=Trabajolargo&password=sPbCeknEqxKf&type=m3u_plus"
+					      }
+				]
+			}
+			
 			]
 		},
 		
