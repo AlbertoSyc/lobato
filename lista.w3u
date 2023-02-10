@@ -101,6 +101,12 @@
 				"author" : "933cn.xyz:8080",
 				"url" : "http://933cn.xyz:8080/get.php?username=tvrabbit&password=mb7OFJ1LN9&type=m3u&output=mpegts"
 			      },
+			      {
+			      "name" : "11 ingenius-sstl.pr",
+				"info" : "No Expiry",
+				"url" : "http://ingenius-sstl.pro:8080/get.php?username=carlosreestream&password=ry92nEkmwJLx&type=m3u_plus"
+			      },
+			    
 			      
 			      {
 				"name": "Listas M3U_Plus BlackGost",
