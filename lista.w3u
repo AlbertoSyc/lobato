@@ -90,6 +90,11 @@
 				"info" : "100c No Expiry",
 				"url" : "http://legazy.cc:8888/get.php?username=zoommaster&password=WckMBB2mfWUA&type=m3u_plus"
 			      },
+			      {
+			      "name" : "10 tv1.ip1v.com:80",
+				"author" : "1c 13/10/2024",
+				"url" : "http://tv1.ip1v.com:80/get.php?username=unexattar&password=1127225639&type=m3u_plus"
+			      },
 			      
 			      {
 				"name": "M3U_Plus BlackGost",
@@ -186,11 +191,7 @@
 				"author" : "off",
 				"url" : "http://obsfullhd.tv:25461/get.php?username=SUPERIPTV&password=21062022superiptvobs&type=m3u_plus"
 			      },
-			      {
-			      "name" : "5 tv1.ip1v.com:80",
-				"author" : "off",
-				"url" : "http://tv1.ip1v.com:80/get.php?username=unexattar&password=1127225639&type=m3u_plus"
-			      },
+			      
 			      {
 			      "name" : "6 opiumline.top",
 				"author" : "opiumline.top",
