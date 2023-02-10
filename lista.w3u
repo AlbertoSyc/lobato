@@ -44,22 +44,31 @@
 		"url": "https://pastebin.com/CkdzH9JS"
 		},
 		
+		
 		{
-		"name": "0 Programación deportes hoy",
-		"embed": "true",
-		"url": "https://www.futbolenlatv.es/deporte"
-		},
-		{
-                    "name": "Clika para ver la programación",
-                    "embed": "true",
-                    "url": "https://es.global.nba.com/schedule/",
-                    "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
-                }, 
-		{
-                    "name": "Clika para ver la programación",
-                    "embed": "true",
-                    "url": "https://www.futbolenlatv.es/deporte/"
-                }, 
+		 "name": "Programación",
+		 "stations":
+			[
+			
+				{
+				"name": "0 Programación deportes hoy",
+				"embed": "true",
+				"url": "https://www.futbolenlatv.es/deporte"
+				},
+				{
+				    "name": "Clika para ver la programación",
+				    "embed": "true",
+				    "url": "https://es.global.nba.com/schedule/",
+				    "image": "https://cdn.nba.net/nba-drupal-prod/2019-10/GameTime_NBATV_showtile_main.png"
+				}, 
+				{
+				    "name": "Clika para ver la programación",
+				    "embed": "true",
+				    "url": "https://www.futbolenlatv.es/deporte/"
+				}, 
+			
+			]
+	},
     
         {
 		"name": "Listas M3U_Plus",
