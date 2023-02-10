@@ -168,27 +168,27 @@
     
 			      {
 			      "name" : "1 Shartytv",
-				"author" : "Shartytv",
+				"author" : "off",
 				"url" : "http://sharkytv.com:2082/get.php?username=Abdullah6535&password=HamZa3426&type=m3u_plus"
 			      },
 			      {
 			      "name" : "2 gelbideburdanyak",
-				"author" : "gelbideburdanyak",
+				"info" : "off",
 				"url" : "http://gelbideburdanyak.formagapp.com:8080/get.php?username=Kismetavci1748&password=5AS4pY9GksHd&type=m3u_plus"
 			      },
 			      {
 			      "name" : "3 n2ip.tv",
-				"author" : "n2ip.tv",
+				"author" : "off",
 				"url" : "http://n2ip.tv:2095/get.php?username=teREKJGm&password=pF58QBx&type=m3u_plus"
 			      },
 			      {
 			      "name" : "4 obsfullhd.tv:25461",
-				"author" : "obsfullhd.tv:25461",
+				"author" : "off",
 				"url" : "http://obsfullhd.tv:25461/get.php?username=SUPERIPTV&password=21062022superiptvobs&type=m3u_plus"
 			      },
 			      {
 			      "name" : "5 tv1.ip1v.com:80",
-				"author" : "tv1.ip1v.com:80",
+				"author" : "off",
 				"url" : "http://tv1.ip1v.com:80/get.php?username=unexattar&password=1127225639&type=m3u_plus"
 			      },
 			      {
