@@ -103,7 +103,7 @@
 			      },
 			      {
 			      "name" : "11 ingenius-sstl.pr",
-				"info" : "No Expiry",
+				"info" : "No Expiry, 150 conexions",
 				"url" : "http://ingenius-sstl.pro:8080/get.php?username=carlosreestream&password=ry92nEkmwJLx&type=m3u_plus"
 			      },
 			    
