@@ -1,6 +1,6 @@
 {
   "name" : "Lista 2023",
-  "author" : "iott 10022023",
+  "author" : "iott 13022023",
   "url" : "https://AlbertoSyc.github.io/lobato/lista.w3u",
   "image" : "https://upload.wikimedia.org/wikipedia/commons/a/ac/Carta_de_Ajuste_TVE_2_1993-2001.png",
   "info" : "https://iptv-checker.com/",
@@ -43,7 +43,10 @@
 		"image": "https://giffiles.alphacoders.com/211/211426.gif",
 		"url": "https://pastebin.com/CkdzH9JS"
 		},
-		
+		{
+		"name": "AC-iptv",
+		"url": "https://raw.githubusercontent.com/KevinMcfly/AC-iptv/main/IPTV%20Acestream%20actu.m3u"
+		},
 		
 		{
 		 "name": "Programación",
@@ -67,12 +70,12 @@
     
 			      {
 			      "name" : "1 Julia",
-				"author" : "author 1c 17/08/2023",
+				"info" : "author 1c 17/08/2023",
 				"url" : "http://extralife.club:2086/get.php?username=Julia01&password=Julia01&type=m3u_plus"
 			      }, 
 				{
 			      "name" : "2 Fuegote",
-				"referer": "refer http://bedhdkwbdhdkdk.team-tv.link/get.php 1500c 21/02/2023",
+				"info": "refer http://bedhdkwbdhdkdk.team-tv.link/get.php 1500c 21/02/2023",
 				"url" : "http://bedhdkwbdhdkdk.team-tv.link/get.php?username=KaYnaKPanelx01xxx&password=ECFdJnh6Lq&type=m3u_plus&output=ts"
 			      },
 			      {
@@ -87,12 +90,12 @@
 			      },
 			      {
 			      "name" : "6 goodtv.nicevcd.xyz",
-				"author" : "1c 01/12/2023",
+				"info" : "1c 01/12/2023",
 				"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
 			      },
 			      {
 			      "name" : "7 933cn.xyz:8080",
-				"author" : "1000c No Expiry",
+				"info" : "1000c No Expiry",
 				"url" : "http://933cn.xyz:8080/get.php?username=tvrabbit&password=mb7OFJ1LN9&type=m3u&output=mpegts"
 			      },
 			      {
