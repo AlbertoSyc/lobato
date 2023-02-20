@@ -250,6 +250,11 @@
 		 "groups":
 			[
 				{
+					"name": "ZeronetSinZeronet",
+					"info":"",
+					"url": "https://procsi.duckdns.org/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/lista1.m3u"
+				},
+				{
 					"name": "Lista20acestream",
 					"info":"",
 					"url": "http://127.0.0.1:43110/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista20acestream.m3u"
