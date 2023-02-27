@@ -1,6 +1,6 @@
 {
   "name" : "Lista 2023",
-  "author" : "iott 13022023",
+  "author" : "iott 27022023",
   "url" : "https://AlbertoSyc.github.io/lobato/lista.w3u",
   "image" : "https://upload.wikimedia.org/wikipedia/commons/a/ac/Carta_de_Ajuste_TVE_2_1993-2001.png",
   "info" : "https://iptv-checker.com/",
@@ -24,7 +24,8 @@
 		"name": "chukycine",
 	        "author": "chuky",
 	        "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
-	        "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+	        "refer": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+	        "url": "https://pastebin.com/raw/CuJ8H9wi"
 		},
 		{
 		"name" : "iDS Acestream",
