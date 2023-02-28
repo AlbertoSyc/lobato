@@ -179,7 +179,48 @@
 						"url" : "http://blackghost.win:8080/get.php?username=Trabajolargo&password=sPbCeknEqxKf&type=m3u_plus"
 					      }
 				]
-			}
+			},
+				
+				{
+			      "name" : "11 niseishi",
+				"info" : "",
+				"url" : "http://niseishi.online:2082/get.php?username=pikoleto&password=pikoleto&type=m3u_plus"
+			      }, 
+				{
+			      "name" : "12 niseishi",
+				"info": "",
+				"url" : "http://niseishi.online:2082/get.php?username=deivis&password=deivis&type=m3u_plus"
+			      },
+			      {
+			      "name" : "13 niseishi",
+				"info" : "",
+				"url" : "http://niseishi.online:2082/get.php?username=deivi123&password=deivi123&type=m3u_plus"
+			      },
+			      {
+			      "name" : "14 niseishi",
+				"info" : "",
+				"url" : "http://niseishi.online:2082/get.php?username=oscar03&password=oscar03&type=m3u_plus"
+			      },
+			      {
+			      "name" : "15 niseishi",
+				"info" : "",
+				"url" : "http://niseishi.online:2082/get.php?username=marco03&password=marco03&type=m3u_plus"
+			      },
+			      {
+			      "name" : "16 whmcsblock2",
+				"info" : "",
+				"url" : "http://whmcsblock2.xyz:8080/get.php?username=parahdymov&password=BHZkQJICoX&type=m3u_plus"
+			      },
+			      {
+			      "name" : "17 katfil",
+				"info" : "",
+				"url" : "http://katfil.com:8080/get.php?username=MortadeloRe&password=PjGd83UAet&type=m3u_plus"
+			      },
+			    {
+			      "name" : "18 spaanet ",
+				"info" : "",
+				"url" : "http://spaanet.net:2086/get.php?username=dejaydole&password=MsvqFdUdHxXM&type=m3u_plus"
+			      }
 			
 			]
 		},
