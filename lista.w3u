@@ -68,63 +68,157 @@
 		"info": "",
 		"groups":
 			[
+			
+			{
+		      "name" : "1 magictvsuper",
+			"author" : "off",
+			"url" : "http://portal.magictvsuper.asia:80/get.php?username=6cTaRKkees&password=OQrtNFYmgm&type=m3u_plus&output=m3u8"
+		      },
+		      {
+		      "name" : "2 vampirereapers",
+			"info" : "off",
+			"url" : "http://got.vampirereapers.xyz:2052/get.php?username=87greenmen1&password=bRTPLQ3XFpnd&type=m3u_plus"
+		      },
+		      {
+		      "name" : "3 vampirereapers",
+			"author" : "off",
+			"url" : "http://got.vampirereapers.xyz:2052/get.php?username=Brenda9&password=Brenda1945r&type=m3u_plus"
+		      },
+		      {
+		      "name" : "4 x-media",
+			"author" : "off",
+			"url" : "http://x-media.tv:8880/get.php?username=usman.mirza008&password=UB5KE1ZOMh&type=m3u_plus"
+		      },
+
+		      {
+		      "name" : "6 elitemaster",
+			"author" : "1c 22/02/2023",
+			"url" : "http://elitemaster.space:8080/get.php?username=gonciptv&password=iptv6491&type=m3u_plus&output=ts"
+		      },
+		      {
+		      "name" : "7 elitemaster",
+			"author" : "off",
+			"url" : "http://elitemaster.space:8080/get.php?username=anatoctoc&password=anatoctoc&type=m3u_plus&output=ts"
+		      },
+		      {
+		      "name" : "8 txm11",
+			"author" : "off",
+			"url" : "http://txm11.flysat.live:2089/get.php?username=152081035120460&password=152096128093439&type=m3u_plus"
+		      },
+		      {
+		      "name" : "7 zaza1",
+			"author" : "off",
+			"url" : "http://zaza1.ddns.net:8080/get.php?username=TZG6kckeevfJ&password=42JuBwbSYUcu&type=m3u_plus"
+		      }, 
+		      {
+		      "name" : "8 niseishi",
+			"author" : "",
+			"url" : "http://niseishi.online:2082/get.php?username=abel2&password=abel2&type=m3u_plus"
+		      },
+		      {
+		      "name" : "9 niseishi",
+			"author" : "",
+			"url" : "http://niseishi.online:2082/get.php?username=deivis&password=deivis&type=m3u_plus"
+		      },
+
+		      {
+		      "name" : "10 niseishi",
+			"info" : "off",
+			"url" : "http://niseishi.online:2082/get.php?username=Noe&password=1234&type=m3u_plus"
+		      }, 
+			{
+		      "name" : "11 niseishi",
+			"info": "off",
+			"url" : "http://niseishi.online:2082/get.php?username=deivi123&password=deivi123&type=m3u_plus"
+		      },
+		      {
+		      "name" : "12 niseishi",
+			"info" : "",
+			"url" : "http://niseishi.online:2082/get.php?username=Raul12345&password=Raul123&type=m3u_plus"
+		      },
+		      {
+		      "name" : "13 niseishi",
+			"info" : "",
+			"url" : "http://niseishi.online:2082/get.php?username=marco03&password=marco03&type=m3u_plus"
+		      },
+		      {
+		      "name" : "14 niseishi",
+			"info" : "off",
+			"url" : "http://niseishi.online:2082/get.php?username=A&password=A&BerJe9L&type=m3u_plus"
+		      },
+		      {
+		      "name" : "15 niseishi",
+			"info" : "",
+			"url" : "http://niseishi.online:2082/get.php?username=alex2003&password=Alex2003&type=m3u_plus"
+		      },
+		      {
+		      "name" : "16 niseishi",
+			"info" : "off",
+			"url" : "http://niseishi.online:2082/get.php?username=oscar03&password=oscar03&type=m3u_plus"
+		      },
+		    {
+		      "name" : "17 niseishi",
+			"info" : "off",
+			"url" : "http://niseishi.online:2082/get.php?username=pikoleto&password=pikoleto&type=m3u_plus"
+		      },
+			
 			 {
 				"name": "Mas Listas M3U_Plus ",
 				"info": "",
 				"groups":
 					[
 
-					      {
-					      "name" : "1 Shartytv",
-						"author" : "off",
-						"url" : "http://sharkytv.com:2082/get.php?username=Abdullah6535&password=HamZa3426&type=m3u_plus"
-					      },
-					      {
-					      "name" : "2 gelbideburdanyak",
-						"info" : "off",
-						"url" : "http://gelbideburdanyak.formagapp.com:8080/get.php?username=Kismetavci1748&password=5AS4pY9GksHd&type=m3u_plus"
-					      },
-					      {
-					      "name" : "3 n2ip.tv",
-						"author" : "off",
-						"url" : "http://n2ip.tv:2095/get.php?username=teREKJGm&password=pF58QBx&type=m3u_plus"
-					      },
-					      {
-					      "name" : "4 obsfullhd.tv:25461",
-						"author" : "off",
-						"url" : "http://obsfullhd.tv:25461/get.php?username=SUPERIPTV&password=21062022superiptvobs&type=m3u_plus"
-					      },
+				      {
+				      "name" : "1 Shartytv",
+					"author" : "off",
+					"url" : "http://sharkytv.com:2082/get.php?username=Abdullah6535&password=HamZa3426&type=m3u_plus"
+				      },
+				      {
+				      "name" : "2 gelbideburdanyak",
+					"info" : "off",
+					"url" : "http://gelbideburdanyak.formagapp.com:8080/get.php?username=Kismetavci1748&password=5AS4pY9GksHd&type=m3u_plus"
+				      },
+				      {
+				      "name" : "3 n2ip.tv",
+					"author" : "off",
+					"url" : "http://n2ip.tv:2095/get.php?username=teREKJGm&password=pF58QBx&type=m3u_plus"
+				      },
+				      {
+				      "name" : "4 obsfullhd.tv:25461",
+					"author" : "off",
+					"url" : "http://obsfullhd.tv:25461/get.php?username=SUPERIPTV&password=21062022superiptvobs&type=m3u_plus"
+				      },
 
-					      {
-					      "name" : "6 opiumline.top",
-						"author" : "1c 22/02/2023",
-						"url" : "http://opiumline.top:8080/get.php?username=5611661164121674&password=1651661164121674&type=m3u_plus"
-					      },
-					      {
-					      "name" : "7 line.premiumpowers.net",
-						"author" : "1c 06/12/2023",
-						"url" : "http://line.premiumpowers.net/get.php?username=f5d1b61fff&password=796886fe76&type=m3u_plus"
-					      },
-					      {
-					      "name" : "8 ehub.games:443",
-						"author" : "off",
-						"url" : "http://ehub.games:443/get.php?username=zslUvbmcBF&password=3GqLDjaRfg&type=m3u_plus"
-					      },
-					      {
-					      "name" : "7 goodtv.nicevcd.xyz",
-						"author" : "1c 02/04/2023",
-						"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=XFR5KKKRAQ&password=9727614388&type=m3u_plus"
-					      },
-					      {
-					      "name" : "8 goodtv.nicevcd.xyz",
-						"author" : "1c 14/10/2023",
-						"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=fe1014480&password=8710219499&type=m3u_plus"
-					      },
-					      {
-					      "name" : "9 goodtv.nicevcd.xyz",
-						"author" : "1c 01/12/2023",
-						"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
-					      },
+				      {
+				      "name" : "6 opiumline.top",
+					"author" : "1c 22/02/2023",
+					"url" : "http://opiumline.top:8080/get.php?username=5611661164121674&password=1651661164121674&type=m3u_plus"
+				      },
+				      {
+				      "name" : "7 line.premiumpowers.net",
+					"author" : "1c 06/12/2023",
+					"url" : "http://line.premiumpowers.net/get.php?username=f5d1b61fff&password=796886fe76&type=m3u_plus"
+				      },
+				      {
+				      "name" : "8 ehub.games:443",
+					"author" : "off",
+					"url" : "http://ehub.games:443/get.php?username=zslUvbmcBF&password=3GqLDjaRfg&type=m3u_plus"
+				      },
+				      {
+				      "name" : "7 goodtv.nicevcd.xyz",
+					"author" : "1c 02/04/2023",
+					"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=XFR5KKKRAQ&password=9727614388&type=m3u_plus"
+				      },
+				      {
+				      "name" : "8 goodtv.nicevcd.xyz",
+					"author" : "1c 14/10/2023",
+					"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=fe1014480&password=8710219499&type=m3u_plus"
+				      },
+				      {
+				      "name" : "9 goodtv.nicevcd.xyz",
+					"author" : "1c 01/12/2023",
+					"url" : "http://goodtv.nicevcd.xyz:80/get.php?username=hu1201334&password=eh7$Bck$jQ5&type=m3u_plus"
+				      },
 					
 				      {
 				      "name" : "1 Julia",
