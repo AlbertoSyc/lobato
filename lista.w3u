@@ -68,27 +68,6 @@
 		"info": "",
 		"groups":
 			[
-			
-			{
-		      "name" : "1 magictvsuper",
-			"author" : "off",
-			"url" : "http://portal.magictvsuper.asia:80/get.php?username=6cTaRKkees&password=OQrtNFYmgm&type=m3u_plus&output=m3u8"
-		      },
-		      {
-		      "name" : "2 vampirereapers",
-			"info" : "off",
-			"url" : "http://got.vampirereapers.xyz:2052/get.php?username=87greenmen1&password=bRTPLQ3XFpnd&type=m3u_plus"
-		      },
-		      {
-		      "name" : "3 vampirereapers",
-			"author" : "off",
-			"url" : "http://got.vampirereapers.xyz:2052/get.php?username=Brenda9&password=Brenda1945r&type=m3u_plus"
-		      },
-		      {
-		      "name" : "4 x-media",
-			"author" : "off",
-			"url" : "http://x-media.tv:8880/get.php?username=usman.mirza008&password=UB5KE1ZOMh&type=m3u_plus"
-		      },
 
 		      {
 		      "name" : "6 elitemaster",
