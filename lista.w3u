@@ -70,6 +70,16 @@
 			[
 
 		      {
+		      "name" : "1 mov_plus",
+			"author" : "backup",
+			"url" : "https://AlbertoSyc.github.io/lobato/lista_mov_plus.w3u"
+		      },
+		      {
+		      "name" : "2 copyBlackGost",
+			"author" : "",
+			"url" : "http://elitemaster.space:8080/get.php?username=gonciptv&password=iptv6491&type=m3u_plus&output=ts"
+		      },
+		      {
 		      "name" : "6 elitemaster",
 			"author" : "1c 22/02/2023",
 			"url" : "http://elitemaster.space:8080/get.php?username=gonciptv&password=iptv6491&type=m3u_plus&output=ts"
