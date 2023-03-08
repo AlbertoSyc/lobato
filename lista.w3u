@@ -150,6 +150,22 @@
 			"info" : "off",
 			"url" : "http://niseishi.online:2082/get.php?username=pikoleto&password=pikoleto&type=m3u_plus"
 		      },
+		      ,
+			  {
+		      "name" : "19  2022spn ",
+			"info" : "",
+			"url" : "http://2022spn.net:8080/get.php?username=Sociolina&password=3383nw83b28222&type=m3u"
+		      },
+			  {
+		      "name" : "20 vpn electrocopperonline ",
+			"info" : "",
+			"url" : "http://electrocopperonline.com:8080/get.php?username=Amanda&password=Amanda&type=m3u_plus&output=ts"
+		      },
+			  {
+		      "name" : "21 vpn electrocopperonline ",
+			"info" : "",
+			"url" : "http://electrocopperonline.com:8080/get.php?username=crackmalaga&password=QCzJH4WLBbPh&type=m3u_plus&output=ts"
+		      },
 			
 			 {
 				"name": "Mas Listas M3U_Plus ",
